@@ -1,0 +1,7 @@
+{
+  "Author": "redstrate",
+  "Name": "Scripter",
+  "Punchline": "Inspect the game's Lua state and run custom Lua code",
+  "Description": "Inspect the game's Lua state and run custom Lua code",
+  "ApplicableVersion": "any",
+}
